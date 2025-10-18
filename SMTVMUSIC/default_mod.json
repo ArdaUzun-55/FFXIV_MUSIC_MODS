@@ -1,0 +1,15 @@
+﻿{
+  "Version": 0,
+  "Files": {
+    "music/ex5/BGM_EX5_Field_Her_Battle.scd": "music\\ex5\\BGM_EX5_Field_Her_Battle.scd",
+    "music/ex5/BGM_EX5_Field_Koz_Battle.scd": "music\\ex5\\BGM_EX5_Field_Koz_Battle.scd",
+    "music/ex5/BGM_EX5_Field_Sha_Battle.scd": "music\\ex5\\BGM_EX5_Field_Sha_Battle.scd",
+    "music/ex5/BGM_EX5_Field_Urq_Battle.scd": "music\\ex5\\BGM_EX5_Field_Urq_Battle.scd",
+    "music/ex5/BGM_EX5_Field_Yak_Battle.scd": "music\\ex5\\BGM_EX5_Field_Yak_Battle.scd",
+    "music/ex5/BGM_EX5_KGR_01.scd": "music\\ex5\\BGM_EX5_KGR_01.scd",
+    "music/ffxiv/BGM_Field_Housing_day.scd": "music\\ex5\\BGM_Field_Housing_Day.scd",
+    "music/ffxiv/BGM_Field_Housing_night.scd": "music\\ex5\\BGM_Field_Housing_Night.scd"
+  },
+  "FileSwaps": {},
+  "Manipulations": []
+}
