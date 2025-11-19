@@ -7,3 +7,10 @@ Replaces some music in FFXIV with SMT5 &amp; Persona Music
 - Radiant Cry of Life with Battle Ferocity
 # How to Install
 Download the pmp file and import it with penumbra.
+
+# FFXIV_PULSE_MOD
+Replaces most soundtracks in FFXIV with their Pulse version (If its already in the game then it is not replaced just use orchestrion plugin to change it yourself)
+
+# How to Install
+Download the pmp file and import it with penumbra.
+
